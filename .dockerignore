@@ -1,0 +1,14 @@
+node_modules
+dist
+build
+.cache
+.turbo
+.pnp
+.pnp.js
+.git
+.env
+*.log
+memory
+backups
+company_docs
+public/test_widget.html
