@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+}
+
+/* Custom scrollbars for a premium dark layout */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(15, 15, 15, 0.4);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.glass-panel {
+  background: rgba(18, 18, 18, 0.7);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-card {
+  background: rgba(25, 25, 25, 0.45);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.glass-card:hover {
+  background: rgba(30, 30, 30, 0.6);
+  border-color: rgba(255, 255, 255, 0.12);
+  transform: translateY(-2px);
+}
+
+.glass-input {
+  background: rgba(10, 10, 10, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: white;
+  transition: all 0.2s;
+}
+
+.glass-input:focus {
+  border-color: rgba(255, 255, 255, 0.3);
+  background: rgba(20, 20, 20, 0.8);
+  outline: none;
+}
+
+/* Leaflet map (onglet Carte Interactive) */
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  min-height: 400px;
+  background: #e5e7eb;
+  font-family: var(--font-sans);
+}
+
+/* Tailwind preflight casse les tuiles Leaflet (img { max-width: 100% }) */
+.leaflet-container .leaflet-tile-pane img.leaflet-tile {
+  max-width: none !important;
+  max-height: none !important;
+  width: 256px !important;
+  height: 256px !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  display: block !important;
+}
+
+.leaflet-container img.leaflet-marker-icon,
+.leaflet-container img.leaflet-marker-shadow {
+  max-width: none !important;
+  max-height: none !important;
+}
+
+/* Conteneur carte : pas de backdrop-filter (sinon tuiles noires / invisibles) */
+.map-panel-shell {
+  background: #dde1e6;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 1rem;
+  overflow: hidden;
+  isolation: isolate;
+}
+
+/* Popups Leaflet — fond clair, texte lisible */
+.property-leaflet-popup .leaflet-popup-content-wrapper {
+  background: #ffffff;
+  color: #111827;
+  border-radius: 14px;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.45);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  padding: 0;
+}
+
+.property-leaflet-popup .leaflet-popup-content {
+  margin: 0;
+  line-height: 1.45;
+  width: 300px !important;
+  max-width: min(92vw, 340px);
+}
+
+.property-leaflet-popup .leaflet-popup-tip {
+  background: #ffffff;
+  box-shadow: none;
+}
+
+.property-leaflet-popup .leaflet-popup-close-button {
+  color: #374151 !important;
+  font-size: 22px !important;
+  padding: 8px 10px 0 0 !important;
+}
+
+.property-popup-card {
+  padding: 16px 18px;
+  font-family: var(--font-sans);
+}
+
+.property-popup-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #0f172a;
+  margin-bottom: 6px;
+}
+
+.property-popup-address {
+  font-size: 13px;
+  color: #4b5563;
+  margin-bottom: 12px;
+  line-height: 1.4;
+}
+
+.property-popup-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.property-popup-stat {
+  background: #f3f4f6;
+  border-radius: 10px;
+  padding: 10px 12px;
+}
+
+.property-popup-label {
+  display: block;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #6b7280;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.property-popup-value {
+  font-size: 15px;
+  font-weight: 700;
+  color: #111827;
+}
+
+.property-popup-price {
+  color: #047857;
+  font-size: 16px;
+}
+
+.property-popup-desc {
+  font-size: 13px;
+  color: #374151;
+  margin: 0 0 10px;
+  line-height: 1.5;
+}
+
+.property-popup-img {
+  width: 100%;
+  max-height: 140px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
+
+.property-popup-coords {
+  font-size: 11px;
+  color: #9ca3af;
+  font-family: var(--font-mono);
+}
+
+/* Panneau liste biens — meilleur contraste */
+.property-list-panel {
+  background: #141418;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.property-list-card {
+  cursor: pointer;
+}

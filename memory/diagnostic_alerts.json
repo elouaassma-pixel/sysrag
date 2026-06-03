@@ -1,0 +1,222 @@
+[
+  {
+    "id": "alert-1780443313810-1jre92",
+    "filename": "map.PNG",
+    "projectId": "hassan_agency_default",
+    "error": "Unsupported file type: .PNG",
+    "diagnosis": "Le type de fichier « map.PNG » n'est pas pris en charge.",
+    "solution": "ASSOCIE.AI supporte les formats : PDF, DOCX, XLSX, CSV, TXT, MD. Convertissez votre document dans un de ces formats.",
+    "severity": "warning",
+    "timestamp": "2026-06-02T23:35:13.810Z",
+    "resolved": false
+  },
+  {
+    "id": "alert-1780440275516-y0esjh",
+    "filename": "map.PNG",
+    "projectId": "hassan_agency_default",
+    "error": "Unsupported file type: .PNG",
+    "diagnosis": "Le type de fichier « map.PNG » n'est pas pris en charge.",
+    "solution": "ASSOCIE.AI supporte les formats : PDF, DOCX, XLSX, CSV, TXT, MD. Convertissez votre document dans un de ces formats.",
+    "severity": "warning",
+    "timestamp": "2026-06-02T22:44:35.516Z",
+    "resolved": false
+  },
+  {
+    "id": "alert-1780440270383-85q1zy",
+    "filename": "map.PNG",
+    "projectId": "hassan_agency_default",
+    "error": "Unsupported file type: .PNG",
+    "diagnosis": "Le type de fichier « map.PNG » n'est pas pris en charge.",
+    "solution": "ASSOCIE.AI supporte les formats : PDF, DOCX, XLSX, CSV, TXT, MD. Convertissez votre document dans un de ces formats.",
+    "severity": "warning",
+    "timestamp": "2026-06-02T22:44:30.383Z",
+    "resolved": false
+  },
+  {
+    "id": "alert-1780440266909-urf5sr",
+    "filename": "map.PNG",
+    "projectId": "hassan_agency_default",
+    "error": "Unsupported file type: .PNG",
+    "diagnosis": "Le type de fichier « map.PNG » n'est pas pris en charge.",
+    "solution": "ASSOCIE.AI supporte les formats : PDF, DOCX, XLSX, CSV, TXT, MD. Convertissez votre document dans un de ces formats.",
+    "severity": "warning",
+    "timestamp": "2026-06-02T22:44:26.909Z",
+    "resolved": false
+  },
+  {
+    "id": "alert-1780440262464-rgof8f",
+    "filename": "map.PNG",
+    "projectId": "hassan_agency_default",
+    "error": "Unsupported file type: .PNG",
+    "diagnosis": "Le type de fichier « map.PNG » n'est pas pris en charge.",
+    "solution": "ASSOCIE.AI supporte les formats : PDF, DOCX, XLSX, CSV, TXT, MD. Convertissez votre document dans un de ces formats.",
+    "severity": "warning",
+    "timestamp": "2026-06-02T22:44:22.464Z",
+    "resolved": false
+  },
+  {
+    "id": "alert-1780440258326-pmbk25",
+    "filename": "map.PNG",
+    "projectId": "hassan_agency_default",
+    "error": "Unsupported file type: .PNG",
+    "diagnosis": "Le type de fichier « map.PNG » n'est pas pris en charge.",
+    "solution": "ASSOCIE.AI supporte les formats : PDF, DOCX, XLSX, CSV, TXT, MD. Convertissez votre document dans un de ces formats.",
+    "severity": "warning",
+    "timestamp": "2026-06-02T22:44:18.326Z",
+    "resolved": false
+  },
+  {
+    "id": "alert-1780440254678-8f4axo",
+    "filename": "map.PNG",
+    "projectId": "hassan_agency_default",
+    "error": "Unsupported file type: .PNG",
+    "diagnosis": "Le type de fichier « map.PNG » n'est pas pris en charge.",
+    "solution": "ASSOCIE.AI supporte les formats : PDF, DOCX, XLSX, CSV, TXT, MD. Convertissez votre document dans un de ces formats.",
+    "severity": "warning",
+    "timestamp": "2026-06-02T22:44:14.678Z",
+    "resolved": false
+  },
+  {
+    "id": "alert-1780440250453-67wfm3",
+    "filename": "map.PNG",
+    "projectId": "hassan_agency_default",
+    "error": "Unsupported file type: .PNG",
+    "diagnosis": "Le type de fichier « map.PNG » n'est pas pris en charge.",
+    "solution": "ASSOCIE.AI supporte les formats : PDF, DOCX, XLSX, CSV, TXT, MD. Convertissez votre document dans un de ces formats.",
+    "severity": "warning",
+    "timestamp": "2026-06-02T22:44:10.453Z",
+    "resolved": false
+  },
+  {
+    "id": "alert-1780440246294-i1n1zy",
+    "filename": "map.PNG",
+    "projectId": "hassan_agency_default",
+    "error": "Unsupported file type: .PNG",
+    "diagnosis": "Le type de fichier « map.PNG » n'est pas pris en charge.",
+    "solution": "ASSOCIE.AI supporte les formats : PDF, DOCX, XLSX, CSV, TXT, MD. Convertissez votre document dans un de ces formats.",
+    "severity": "warning",
+    "timestamp": "2026-06-02T22:44:06.294Z",
+    "resolved": false
+  },
+  {
+    "id": "alert-1780440243035-da79rk",
+    "filename": "map.PNG",
+    "projectId": "hassan_agency_default",
+    "error": "Unsupported file type: .PNG",
+    "diagnosis": "Le type de fichier « map.PNG » n'est pas pris en charge.",
+    "solution": "ASSOCIE.AI supporte les formats : PDF, DOCX, XLSX, CSV, TXT, MD. Convertissez votre document dans un de ces formats.",
+    "severity": "warning",
+    "timestamp": "2026-06-02T22:44:03.035Z",
+    "resolved": false
+  },
+  {
+    "id": "alert-1780440238334-2poabm",
+    "filename": "map.PNG",
+    "projectId": "hassan_agency_default",
+    "error": "Unsupported file type: .PNG",
+    "diagnosis": "Le type de fichier « map.PNG » n'est pas pris en charge.",
+    "solution": "ASSOCIE.AI supporte les formats : PDF, DOCX, XLSX, CSV, TXT, MD. Convertissez votre document dans un de ces formats.",
+    "severity": "warning",
+    "timestamp": "2026-06-02T22:43:58.334Z",
+    "resolved": false
+  },
+  {
+    "id": "alert-1780440234607-54fx9a",
+    "filename": "map.PNG",
+    "projectId": "hassan_agency_default",
+    "error": "Unsupported file type: .PNG",
+    "diagnosis": "Le type de fichier « map.PNG » n'est pas pris en charge.",
+    "solution": "ASSOCIE.AI supporte les formats : PDF, DOCX, XLSX, CSV, TXT, MD. Convertissez votre document dans un de ces formats.",
+    "severity": "warning",
+    "timestamp": "2026-06-02T22:43:54.607Z",
+    "resolved": false
+  },
+  {
+    "id": "alert-1780440231081-8n8p70",
+    "filename": "map.PNG",
+    "projectId": "hassan_agency_default",
+    "error": "Unsupported file type: .PNG",
+    "diagnosis": "Le type de fichier « map.PNG » n'est pas pris en charge.",
+    "solution": "ASSOCIE.AI supporte les formats : PDF, DOCX, XLSX, CSV, TXT, MD. Convertissez votre document dans un de ces formats.",
+    "severity": "warning",
+    "timestamp": "2026-06-02T22:43:51.081Z",
+    "resolved": false
+  },
+  {
+    "id": "alert-1780440226276-qdxxf6",
+    "filename": "map.PNG",
+    "projectId": "hassan_agency_default",
+    "error": "Unsupported file type: .PNG",
+    "diagnosis": "Le type de fichier « map.PNG » n'est pas pris en charge.",
+    "solution": "ASSOCIE.AI supporte les formats : PDF, DOCX, XLSX, CSV, TXT, MD. Convertissez votre document dans un de ces formats.",
+    "severity": "warning",
+    "timestamp": "2026-06-02T22:43:46.276Z",
+    "resolved": false
+  },
+  {
+    "id": "alert-1780440222824-irqwkn",
+    "filename": "map.PNG",
+    "projectId": "hassan_agency_default",
+    "error": "Unsupported file type: .PNG",
+    "diagnosis": "Le type de fichier « map.PNG » n'est pas pris en charge.",
+    "solution": "ASSOCIE.AI supporte les formats : PDF, DOCX, XLSX, CSV, TXT, MD. Convertissez votre document dans un de ces formats.",
+    "severity": "warning",
+    "timestamp": "2026-06-02T22:43:42.824Z",
+    "resolved": false
+  },
+  {
+    "id": "alert-1780440218929-om0hon",
+    "filename": "map.PNG",
+    "projectId": "hassan_agency_default",
+    "error": "Unsupported file type: .PNG",
+    "diagnosis": "Le type de fichier « map.PNG » n'est pas pris en charge.",
+    "solution": "ASSOCIE.AI supporte les formats : PDF, DOCX, XLSX, CSV, TXT, MD. Convertissez votre document dans un de ces formats.",
+    "severity": "warning",
+    "timestamp": "2026-06-02T22:43:38.929Z",
+    "resolved": false
+  },
+  {
+    "id": "alert-1780440214795-dh9bh9",
+    "filename": "map.PNG",
+    "projectId": "hassan_agency_default",
+    "error": "Unsupported file type: .PNG",
+    "diagnosis": "Le type de fichier « map.PNG » n'est pas pris en charge.",
+    "solution": "ASSOCIE.AI supporte les formats : PDF, DOCX, XLSX, CSV, TXT, MD. Convertissez votre document dans un de ces formats.",
+    "severity": "warning",
+    "timestamp": "2026-06-02T22:43:34.795Z",
+    "resolved": false
+  },
+  {
+    "id": "alert-1780440211940-1fk35m",
+    "filename": "map.PNG",
+    "projectId": "hassan_agency_default",
+    "error": "Unsupported file type: .PNG",
+    "diagnosis": "Le type de fichier « map.PNG » n'est pas pris en charge.",
+    "solution": "ASSOCIE.AI supporte les formats : PDF, DOCX, XLSX, CSV, TXT, MD. Convertissez votre document dans un de ces formats.",
+    "severity": "warning",
+    "timestamp": "2026-06-02T22:43:31.940Z",
+    "resolved": false
+  },
+  {
+    "id": "alert-1780440207517-vbgzm6",
+    "filename": "map.PNG",
+    "projectId": "hassan_agency_default",
+    "error": "Unsupported file type: .PNG",
+    "diagnosis": "Le type de fichier « map.PNG » n'est pas pris en charge.",
+    "solution": "ASSOCIE.AI supporte les formats : PDF, DOCX, XLSX, CSV, TXT, MD. Convertissez votre document dans un de ces formats.",
+    "severity": "warning",
+    "timestamp": "2026-06-02T22:43:27.517Z",
+    "resolved": false
+  },
+  {
+    "id": "alert-1780440202479-trrx5n",
+    "filename": "map.PNG",
+    "projectId": "hassan_agency_default",
+    "error": "Unsupported file type: .PNG",
+    "diagnosis": "Le type de fichier « map.PNG » n'est pas pris en charge.",
+    "solution": "ASSOCIE.AI supporte les formats : PDF, DOCX, XLSX, CSV, TXT, MD. Convertissez votre document dans un de ces formats.",
+    "severity": "warning",
+    "timestamp": "2026-06-02T22:43:22.479Z",
+    "resolved": false
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "id": "chat-1779747238449-user",
+    "sender": "user",
+    "text": "Quels sont les critères de prix et les quartiers ciblés pour les biens immobiliers à Casablanca ?",
+    "timestamp": "2026-05-25T22:13:58.449Z",
+    "projectId": "hassan_agency_default"
+  },
+  {
+    "id": "chat-1779747238449-ai",
+    "sender": "ai",
+    "text": "Selon le document **Concierge Immobilie.pdf**, voici les critères de prix et les quartiers ciblés pour les biens immobiliers d'exception à Casablanca :\n\n### 💰 Critères de Prix\n* Les acquéreurs recherchent exclusivement des biens d'exception d'une valeur supérieure à **8 Millions de Dirhams (> 8M Dhs)**.\n\n### 📍 Quartiers Ciblés\nLes recherches et l'expertise se concentrent sur les quartiers prestigieux suivants de Casablanca :\n* **Anfa**\n* **CFC** (Casablanca Finance City)\n* **Californie**\n* **Bouskoura-Ville Verte**\n* **Racine**\n\nSi vous souhaitez obtenir des informations complémentaires ou initier un partenariat, n'hésitez pas à nous contacter.",
+    "timestamp": "2026-05-25T22:13:58.449Z",
+    "sources": [
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "NOUS FAIRE CONFIANCE ?** •**Expertise du Luxe Casablancais :** Connaissance fine des quartiers, des promoteurs et des dynamiques de marché (Anfa, CFC, Racine...). •**Approche Relationnelle :** Nous protégeons votre relation avec votre vendeur et votre réputation. •**Discrétion et Professionnalisme :** Entière compréhension des enjeux de confidentialité propres aux transactions haut de gamme. **PROCHAINES ÉTAPES** Nous proposons un premier échange de 20 minutes pour : •Identifier un premier bien candidat pour un test. •Définir les modalités pratiques d'un partenariat exclusif sur un segment défini. **Contact :** [Hassan] | [0675591318] | [helouasni@gmail.com] | [hassan-elouasni-b0645b310] -- 3 of 3 --",
+        "score": 0.7211668519806266
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "=Concierge Immobilie= Accès Privé au Marché d'Exception & Partenariat Agences d'Élite -- 1 of 3 -- NOTRE MISSION Fournir aux agences immobilières de prestige de Casablanca un accès direct et qualifié à des acquéreurs sérieux, internationaux et locaux, pour les transactions haut de gamme et *off-market*. **NOTRE VALEUR EN 3 POINTS** 1. SOURCING CIBLÉ & DISCRET •Accès à un réseau d'acquéreurs (HNWI, diaspora, investisseurs institutionnels) recherchant exclusivement des biens d'exception (> 8M Dhs) dans les quartiers Anfa, CFC, Californie, Bouskoura-Ville Verte. •Approche qualitative, pas quantitative. Pas de démarchage public. 2. PRÉ-QUALIFICATION RIGOUREUSE •Validation préalable du dossier financier, du projet d'acquisition et des critères de recherche pour chaque prospect.",
+        "score": 0.7083669092928634
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "oche de l'acquéreur. •Vous conservez l'intégralité de la relation client et la gestion de la transaction. **PROCESSUS DE PARTENARIAT** 1. **ALIGNEMENT :** Identification mutuelle d'un premier bien de test (confidentiel ou nouvellement disponible). 2. **SOURCING :** Proposition ciblée à notre réseau d'acquéreurs qualifiés. 3. **PRÉSENTATION :** Transmission d'une fiche acquéreur pré-qualifiée et organisation d'une visite. -- 2 of 3 -- 4. **TRANSACTION :** Votre agence gère la vente. Notre rôle s'arrête à la mise en relation réussie. 5. **RÉMUNÉRATION :** Partage de la commission vendeur selon les termes convenus. **POURQUOI NOUS FAIRE CONFIANCE ?** •**Expertise du Luxe Casablancais :** Connaissance fine des quartiers, des promoteurs et des dynamiques de marché (Anfa, CFC,",
+        "score": 0.6788977660213108
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "2. PRÉ-QUALIFICATION RIGOUREUSE •Validation préalable du dossier financier, du projet d'acquisition et des critères de recherche pour chaque prospect. •Présentation d'une **fiche acquéreur complète** comprenant : budget validé, origine des fonds, mandat de recherche signé, délai d'achat. 3. MODÈLE GAGNANT-GAGNANT CLAIR •**Nous ne sommes pas une agence concurrente.** Nous sommes un canal d'acquisition premium pour votre portefeuille *off-market* et vos biens les plus prestigieux. •**Rémunération uniquement sur succès**, sous forme de partage de la **commission vendeur** (à définir contractuellement). Nous ne touchons jamais à la poche de l'acquéreur. •Vous conservez l'intégralité de la relation client et la gestion de la transaction. **PROCESSUS DE PARTENARIAT** 1. **ALIGNEMENT",
+        "score": 0.6049400503068142
+      },
+      {
+        "filename": "Prix_Villas.csv",
+        "text": "ID;Nom de la Villa;Localisation;Chambres;Surface (m2);Prix de Vente;Disponibilité V001;Villa Serena;Saint-Tropez;5;340;4200000;Disponible V002;Villa Horizon;Cannes;4;290;3100000;Optionnée V003;Villa Belvédère;Nice;6;410;5400000;Disponible V004;Villas des Pins;Ramatuelle;4;250;2850000;Disponible V005;La Bastide Bleue;Gassin;5;310;3600000;Sous Compromis",
+        "score": 0.5799588149905089
+      }
+    ],
+    "projectId": "hassan_agency_default"
+  },
+  {
+    "id": "chat-1779747761825-user",
+    "sender": "user",
+    "text": "Donne-moi les coordonnées de contact d'Hassan.",
+    "timestamp": "2026-05-25T22:22:41.825Z",
+    "projectId": "hassan_agency_default"
+  },
+  {
+    "id": "chat-1779747761825-ai",
+    "sender": "ai",
+    "text": "Selon le document **Concierge Immobilie.pdf**, voici les coordonnées de contact de **Hassan** :\n\n* **Téléphone :** 0675591318\n* **E-mail :** helouasni@gmail.com\n* **Profil professionnel :** hassan-elouasni-b0645b310 (LinkedIn)",
+    "timestamp": "2026-05-25T22:22:41.825Z",
+    "sources": [
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "NOUS FAIRE CONFIANCE ?** •**Expertise du Luxe Casablancais :** Connaissance fine des quartiers, des promoteurs et des dynamiques de marché (Anfa, CFC, Racine...). •**Approche Relationnelle :** Nous protégeons votre relation avec votre vendeur et votre réputation. •**Discrétion et Professionnalisme :** Entière compréhension des enjeux de confidentialité propres aux transactions haut de gamme. **PROCHAINES ÉTAPES** Nous proposons un premier échange de 20 minutes pour : •Identifier un premier bien candidat pour un test. •Définir les modalités pratiques d'un partenariat exclusif sur un segment défini. **Contact :** [Hassan] | [0675591318] | [helouasni@gmail.com] | [hassan-elouasni-b0645b310] -- 3 of 3 --",
+        "score": 0.5511565167093387
+      },
+      {
+        "filename": "Prix_Villas.csv",
+        "text": "ID;Nom de la Villa;Localisation;Chambres;Surface (m2);Prix de Vente;Disponibilité V001;Villa Serena;Saint-Tropez;5;340;4200000;Disponible V002;Villa Horizon;Cannes;4;290;3100000;Optionnée V003;Villa Belvédère;Nice;6;410;5400000;Disponible V004;Villas des Pins;Ramatuelle;4;250;2850000;Disponible V005;La Bastide Bleue;Gassin;5;310;3600000;Sous Compromis",
+        "score": 0.48096438600623453
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "=Concierge Immobilie= Accès Privé au Marché d'Exception & Partenariat Agences d'Élite -- 1 of 3 -- NOTRE MISSION Fournir aux agences immobilières de prestige de Casablanca un accès direct et qualifié à des acquéreurs sérieux, internationaux et locaux, pour les transactions haut de gamme et *off-market*. **NOTRE VALEUR EN 3 POINTS** 1. SOURCING CIBLÉ & DISCRET •Accès à un réseau d'acquéreurs (HNWI, diaspora, investisseurs institutionnels) recherchant exclusivement des biens d'exception (> 8M Dhs) dans les quartiers Anfa, CFC, Californie, Bouskoura-Ville Verte. •Approche qualitative, pas quantitative. Pas de démarchage public. 2. PRÉ-QUALIFICATION RIGOUREUSE •Validation préalable du dossier financier, du projet d'acquisition et des critères de recherche pour chaque prospect.",
+        "score": 0.4744386973139006
+      },
+      {
+        "filename": "Politique_RH.txt",
+        "text": "# POLITIQUE DE LA SOCIÉTÉ ASSOCIE.AI ## Version 2026.1 - Document de Référence Interne ### 1. Politique Globale de Télétravail Il est accordé à l'ensemble des collaborateurs d'Associer.ai d'effectuer jusqu'à 3 jours de télétravail par semaine, après approbation de leur responsable hiérarchique direct. Les lundis et vendredis sont privilégiés pour les réunions d'équipe en présentiel au siège social situé Avenue des Champs-Élysées à Paris. ### 2. Remboursement des frais d'équipement Chaque nouvel arrivant bénéficie d'une enveloppe de remboursement d'équipement de bureau à hauteur de 500 € maximum (HT). Cette enveloppe comprend l'achat d'un écran ergonomique, d'un fauteuil de bureau et d'accessoires de frappe validés par la médecine du travail. ### 3. Jours de Congés et RTT",
+        "score": 0.46904518833163494
+      },
+      {
+        "filename": "Politique_RH.txt",
+        "text": "d l'achat d'un écran ergonomique, d'un fauteuil de bureau et d'accessoires de frappe validés par la médecine du travail. ### 3. Jours de Congés et RTT La société attribue : - 25 jours de congés payés conventionnels par an. - 10 jours de RTT (Réduction du Temps de Travail) forfaitaires par année civile. - Les demandes de congés de plus de 5 jours doivent être soumises au moins 3 semaines à l'avance via l'outil interne de paie.",
+        "score": 0.46373063007642484
+      }
+    ],
+    "projectId": "hassan_agency_default"
+  },
+  {
+    "id": "chat-1779747854432-user",
+    "sender": "user",
+    "text": "Est-ce que vous proposez aussi des biens d'exception à Marrakech ou Tanger ?",
+    "timestamp": "2026-05-25T22:24:14.432Z",
+    "projectId": "hassan_agency_default"
+  },
+  {
+    "id": "chat-1779747854432-ai",
+    "sender": "ai",
+    "text": "D'après les documents à notre disposition, il n'est pas mentionné de biens d'exception à **Marrakech** ou à **Tanger**. \n\nLes documents fournis se concentrent exclusivement sur :\n* Le marché de prestige à **Casablanca** (quartiers Anfa, CFC, Californie, Bouskoura-Ville Verte et Racine), comme indiqué dans le document *Concierge Immobilie.pdf*.\n* Des villas situées dans le sud de la **France** (Saint-Tropez, Cannes, Nice, Ramatuelle, Gassin), selon le fichier *Prix_Villas.csv*.\n\nSi vous souhaitez savoir si des opportunités hors catalogue sont disponibles dans d'autres régions du Maroc, nous vous invitons à contacter directement **Hassan** (0675591318 / helouasni@gmail.com) pour obtenir plus de précisions.",
+    "timestamp": "2026-05-25T22:24:14.432Z",
+    "sources": [
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "NOUS FAIRE CONFIANCE ?** •**Expertise du Luxe Casablancais :** Connaissance fine des quartiers, des promoteurs et des dynamiques de marché (Anfa, CFC, Racine...). •**Approche Relationnelle :** Nous protégeons votre relation avec votre vendeur et votre réputation. •**Discrétion et Professionnalisme :** Entière compréhension des enjeux de confidentialité propres aux transactions haut de gamme. **PROCHAINES ÉTAPES** Nous proposons un premier échange de 20 minutes pour : •Identifier un premier bien candidat pour un test. •Définir les modalités pratiques d'un partenariat exclusif sur un segment défini. **Contact :** [Hassan] | [0675591318] | [helouasni@gmail.com] | [hassan-elouasni-b0645b310] -- 3 of 3 --",
+        "score": 0.742788390704897
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "=Concierge Immobilie= Accès Privé au Marché d'Exception & Partenariat Agences d'Élite -- 1 of 3 -- NOTRE MISSION Fournir aux agences immobilières de prestige de Casablanca un accès direct et qualifié à des acquéreurs sérieux, internationaux et locaux, pour les transactions haut de gamme et *off-market*. **NOTRE VALEUR EN 3 POINTS** 1. SOURCING CIBLÉ & DISCRET •Accès à un réseau d'acquéreurs (HNWI, diaspora, investisseurs institutionnels) recherchant exclusivement des biens d'exception (> 8M Dhs) dans les quartiers Anfa, CFC, Californie, Bouskoura-Ville Verte. •Approche qualitative, pas quantitative. Pas de démarchage public. 2. PRÉ-QUALIFICATION RIGOUREUSE •Validation préalable du dossier financier, du projet d'acquisition et des critères de recherche pour chaque prospect.",
+        "score": 0.7180736481771706
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "oche de l'acquéreur. •Vous conservez l'intégralité de la relation client et la gestion de la transaction. **PROCESSUS DE PARTENARIAT** 1. **ALIGNEMENT :** Identification mutuelle d'un premier bien de test (confidentiel ou nouvellement disponible). 2. **SOURCING :** Proposition ciblée à notre réseau d'acquéreurs qualifiés. 3. **PRÉSENTATION :** Transmission d'une fiche acquéreur pré-qualifiée et organisation d'une visite. -- 2 of 3 -- 4. **TRANSACTION :** Votre agence gère la vente. Notre rôle s'arrête à la mise en relation réussie. 5. **RÉMUNÉRATION :** Partage de la commission vendeur selon les termes convenus. **POURQUOI NOUS FAIRE CONFIANCE ?** •**Expertise du Luxe Casablancais :** Connaissance fine des quartiers, des promoteurs et des dynamiques de marché (Anfa, CFC,",
+        "score": 0.6796820045405421
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "2. PRÉ-QUALIFICATION RIGOUREUSE •Validation préalable du dossier financier, du projet d'acquisition et des critères de recherche pour chaque prospect. •Présentation d'une **fiche acquéreur complète** comprenant : budget validé, origine des fonds, mandat de recherche signé, délai d'achat. 3. MODÈLE GAGNANT-GAGNANT CLAIR •**Nous ne sommes pas une agence concurrente.** Nous sommes un canal d'acquisition premium pour votre portefeuille *off-market* et vos biens les plus prestigieux. •**Rémunération uniquement sur succès**, sous forme de partage de la **commission vendeur** (à définir contractuellement). Nous ne touchons jamais à la poche de l'acquéreur. •Vous conservez l'intégralité de la relation client et la gestion de la transaction. **PROCESSUS DE PARTENARIAT** 1. **ALIGNEMENT",
+        "score": 0.6604895537381675
+      },
+      {
+        "filename": "Prix_Villas.csv",
+        "text": "ID;Nom de la Villa;Localisation;Chambres;Surface (m2);Prix de Vente;Disponibilité V001;Villa Serena;Saint-Tropez;5;340;4200000;Disponible V002;Villa Horizon;Cannes;4;290;3100000;Optionnée V003;Villa Belvédère;Nice;6;410;5400000;Disponible V004;Villas des Pins;Ramatuelle;4;250;2850000;Disponible V005;La Bastide Bleue;Gassin;5;310;3600000;Sous Compromis",
+        "score": 0.6360839599374676
+      }
+    ],
+    "projectId": "hassan_agency_default"
+  },
+  {
+    "id": "chat-1779748084165-user",
+    "sender": "user",
+    "text": "Prenez-vous des frais de commission sur l'acquéreur ?",
+    "timestamp": "2026-05-25T22:28:04.165Z",
+    "projectId": "hassan_agency_default"
+  },
+  {
+    "id": "chat-1779748084165-ai",
+    "sender": "ai",
+    "text": "**Non**, aucun frais de commission n'est prélevé sur l'acquéreur.\n\nSelon le document **Concierge Immobilie.pdf**, le modèle de rémunération est transparent et basé sur le principe suivant :\n\n* **Zéro frais pour l'acquéreur :** Il est explicitement mentionné : *\"Nous ne touchons jamais à la poche de l'acquéreur.\"*\n* **Rémunération sur le vendeur uniquement :** La rémunération se fait uniquement sur succès, sous la forme d'un **partage de la commission vendeur** (définie contractuellement avec l'agence partenaire).",
+    "timestamp": "2026-05-25T22:28:04.165Z",
+    "sources": [
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "2. PRÉ-QUALIFICATION RIGOUREUSE •Validation préalable du dossier financier, du projet d'acquisition et des critères de recherche pour chaque prospect. •Présentation d'une **fiche acquéreur complète** comprenant : budget validé, origine des fonds, mandat de recherche signé, délai d'achat. 3. MODÈLE GAGNANT-GAGNANT CLAIR •**Nous ne sommes pas une agence concurrente.** Nous sommes un canal d'acquisition premium pour votre portefeuille *off-market* et vos biens les plus prestigieux. •**Rémunération uniquement sur succès**, sous forme de partage de la **commission vendeur** (à définir contractuellement). Nous ne touchons jamais à la poche de l'acquéreur. •Vous conservez l'intégralité de la relation client et la gestion de la transaction. **PROCESSUS DE PARTENARIAT** 1. **ALIGNEMENT",
+        "score": 0.7307522819437817
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "NOUS FAIRE CONFIANCE ?** •**Expertise du Luxe Casablancais :** Connaissance fine des quartiers, des promoteurs et des dynamiques de marché (Anfa, CFC, Racine...). •**Approche Relationnelle :** Nous protégeons votre relation avec votre vendeur et votre réputation. •**Discrétion et Professionnalisme :** Entière compréhension des enjeux de confidentialité propres aux transactions haut de gamme. **PROCHAINES ÉTAPES** Nous proposons un premier échange de 20 minutes pour : •Identifier un premier bien candidat pour un test. •Définir les modalités pratiques d'un partenariat exclusif sur un segment défini. **Contact :** [Hassan] | [0675591318] | [helouasni@gmail.com] | [hassan-elouasni-b0645b310] -- 3 of 3 --",
+        "score": 0.682351790597189
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "oche de l'acquéreur. •Vous conservez l'intégralité de la relation client et la gestion de la transaction. **PROCESSUS DE PARTENARIAT** 1. **ALIGNEMENT :** Identification mutuelle d'un premier bien de test (confidentiel ou nouvellement disponible). 2. **SOURCING :** Proposition ciblée à notre réseau d'acquéreurs qualifiés. 3. **PRÉSENTATION :** Transmission d'une fiche acquéreur pré-qualifiée et organisation d'une visite. -- 2 of 3 -- 4. **TRANSACTION :** Votre agence gère la vente. Notre rôle s'arrête à la mise en relation réussie. 5. **RÉMUNÉRATION :** Partage de la commission vendeur selon les termes convenus. **POURQUOI NOUS FAIRE CONFIANCE ?** •**Expertise du Luxe Casablancais :** Connaissance fine des quartiers, des promoteurs et des dynamiques de marché (Anfa, CFC,",
+        "score": 0.6653477046606289
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "=Concierge Immobilie= Accès Privé au Marché d'Exception & Partenariat Agences d'Élite -- 1 of 3 -- NOTRE MISSION Fournir aux agences immobilières de prestige de Casablanca un accès direct et qualifié à des acquéreurs sérieux, internationaux et locaux, pour les transactions haut de gamme et *off-market*. **NOTRE VALEUR EN 3 POINTS** 1. SOURCING CIBLÉ & DISCRET •Accès à un réseau d'acquéreurs (HNWI, diaspora, investisseurs institutionnels) recherchant exclusivement des biens d'exception (> 8M Dhs) dans les quartiers Anfa, CFC, Californie, Bouskoura-Ville Verte. •Approche qualitative, pas quantitative. Pas de démarchage public. 2. PRÉ-QUALIFICATION RIGOUREUSE •Validation préalable du dossier financier, du projet d'acquisition et des critères de recherche pour chaque prospect.",
+        "score": 0.6353742090396512
+      },
+      {
+        "filename": "Prix_Villas.csv",
+        "text": "ID;Nom de la Villa;Localisation;Chambres;Surface (m2);Prix de Vente;Disponibilité V001;Villa Serena;Saint-Tropez;5;340;4200000;Disponible V002;Villa Horizon;Cannes;4;290;3100000;Optionnée V003;Villa Belvédère;Nice;6;410;5400000;Disponible V004;Villas des Pins;Ramatuelle;4;250;2850000;Disponible V005;La Bastide Bleue;Gassin;5;310;3600000;Sous Compromis",
+        "score": 0.6217369220751475
+      }
+    ],
+    "projectId": "hassan_agency_default"
+  },
+  {
+    "id": "chat-1779748189673-user",
+    "sender": "user",
+    "text": "Quel est le meilleur restaurant de poisson à Casablanca ?",
+    "timestamp": "2026-05-25T22:29:49.673Z",
+    "projectId": "hassan_agency_default"
+  },
+  {
+    "id": "chat-1779748189673-ai",
+    "sender": "ai",
+    "text": "D'après les documents de l'entreprise mis à notre disposition, nous ne disposons d'aucune information concernant les restaurants ou la gastronomie à Casablanca. \n\nPour toute question relative à nos services immobiliers d'exception à Casablanca, nous vous invitons à contacter notre support ou directement **Hassan** au **0675591318** ou par e-mail à **helouasni@gmail.com**.",
+    "timestamp": "2026-05-25T22:29:49.673Z",
+    "sources": [
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "=Concierge Immobilie= Accès Privé au Marché d'Exception & Partenariat Agences d'Élite -- 1 of 3 -- NOTRE MISSION Fournir aux agences immobilières de prestige de Casablanca un accès direct et qualifié à des acquéreurs sérieux, internationaux et locaux, pour les transactions haut de gamme et *off-market*. **NOTRE VALEUR EN 3 POINTS** 1. SOURCING CIBLÉ & DISCRET •Accès à un réseau d'acquéreurs (HNWI, diaspora, investisseurs institutionnels) recherchant exclusivement des biens d'exception (> 8M Dhs) dans les quartiers Anfa, CFC, Californie, Bouskoura-Ville Verte. •Approche qualitative, pas quantitative. Pas de démarchage public. 2. PRÉ-QUALIFICATION RIGOUREUSE •Validation préalable du dossier financier, du projet d'acquisition et des critères de recherche pour chaque prospect.",
+        "score": 0.6115788098435221
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "NOUS FAIRE CONFIANCE ?** •**Expertise du Luxe Casablancais :** Connaissance fine des quartiers, des promoteurs et des dynamiques de marché (Anfa, CFC, Racine...). •**Approche Relationnelle :** Nous protégeons votre relation avec votre vendeur et votre réputation. •**Discrétion et Professionnalisme :** Entière compréhension des enjeux de confidentialité propres aux transactions haut de gamme. **PROCHAINES ÉTAPES** Nous proposons un premier échange de 20 minutes pour : •Identifier un premier bien candidat pour un test. •Définir les modalités pratiques d'un partenariat exclusif sur un segment défini. **Contact :** [Hassan] | [0675591318] | [helouasni@gmail.com] | [hassan-elouasni-b0645b310] -- 3 of 3 --",
+        "score": 0.606426504433668
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "oche de l'acquéreur. •Vous conservez l'intégralité de la relation client et la gestion de la transaction. **PROCESSUS DE PARTENARIAT** 1. **ALIGNEMENT :** Identification mutuelle d'un premier bien de test (confidentiel ou nouvellement disponible). 2. **SOURCING :** Proposition ciblée à notre réseau d'acquéreurs qualifiés. 3. **PRÉSENTATION :** Transmission d'une fiche acquéreur pré-qualifiée et organisation d'une visite. -- 2 of 3 -- 4. **TRANSACTION :** Votre agence gère la vente. Notre rôle s'arrête à la mise en relation réussie. 5. **RÉMUNÉRATION :** Partage de la commission vendeur selon les termes convenus. **POURQUOI NOUS FAIRE CONFIANCE ?** •**Expertise du Luxe Casablancais :** Connaissance fine des quartiers, des promoteurs et des dynamiques de marché (Anfa, CFC,",
+        "score": 0.5709416291952569
+      },
+      {
+        "filename": "Prix_Villas.csv",
+        "text": "ID;Nom de la Villa;Localisation;Chambres;Surface (m2);Prix de Vente;Disponibilité V001;Villa Serena;Saint-Tropez;5;340;4200000;Disponible V002;Villa Horizon;Cannes;4;290;3100000;Optionnée V003;Villa Belvédère;Nice;6;410;5400000;Disponible V004;Villas des Pins;Ramatuelle;4;250;2850000;Disponible V005;La Bastide Bleue;Gassin;5;310;3600000;Sous Compromis",
+        "score": 0.49711472178356914
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "2. PRÉ-QUALIFICATION RIGOUREUSE •Validation préalable du dossier financier, du projet d'acquisition et des critères de recherche pour chaque prospect. •Présentation d'une **fiche acquéreur complète** comprenant : budget validé, origine des fonds, mandat de recherche signé, délai d'achat. 3. MODÈLE GAGNANT-GAGNANT CLAIR •**Nous ne sommes pas une agence concurrente.** Nous sommes un canal d'acquisition premium pour votre portefeuille *off-market* et vos biens les plus prestigieux. •**Rémunération uniquement sur succès**, sous forme de partage de la **commission vendeur** (à définir contractuellement). Nous ne touchons jamais à la poche de l'acquéreur. •Vous conservez l'intégralité de la relation client et la gestion de la transaction. **PROCESSUS DE PARTENARIAT** 1. **ALIGNEMENT",
+        "score": 0.4862570590161785
+      }
+    ],
+    "projectId": "hassan_agency_default"
+  },
+  {
+    "id": "chat-1779749400216-user",
+    "sender": "user",
+    "text": "est ce que  tu peux me trouver  localisation du Villa Serena",
+    "timestamp": "2026-05-25T22:50:00.216Z",
+    "projectId": "hassan_agency_default"
+  },
+  {
+    "id": "chat-1779749400216-ai",
+    "sender": "ai",
+    "text": "Selon le document **Prix_Villas.csv**, la **Villa Serena** est localisée à **Saint-Tropez**. \n\nPour information, voici les détails complémentaires concernant ce bien d'exception :\n* **Chambres :** 5\n* **Surface :** 340 m²\n* **Prix de vente :** 4 200 000 €\n* **Disponibilité :** Disponible",
+    "timestamp": "2026-05-25T22:50:00.216Z",
+    "sources": [
+      {
+        "filename": "Prix_Villas.csv",
+        "text": "ID;Nom de la Villa;Localisation;Chambres;Surface (m2);Prix de Vente;Disponibilité V001;Villa Serena;Saint-Tropez;5;340;4200000;Disponible V002;Villa Horizon;Cannes;4;290;3100000;Optionnée V003;Villa Belvédère;Nice;6;410;5400000;Disponible V004;Villas des Pins;Ramatuelle;4;250;2850000;Disponible V005;La Bastide Bleue;Gassin;5;310;3600000;Sous Compromis",
+        "score": 0.6722016094158664
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "=Concierge Immobilie= Accès Privé au Marché d'Exception & Partenariat Agences d'Élite -- 1 of 3 -- NOTRE MISSION Fournir aux agences immobilières de prestige de Casablanca un accès direct et qualifié à des acquéreurs sérieux, internationaux et locaux, pour les transactions haut de gamme et *off-market*. **NOTRE VALEUR EN 3 POINTS** 1. SOURCING CIBLÉ & DISCRET •Accès à un réseau d'acquéreurs (HNWI, diaspora, investisseurs institutionnels) recherchant exclusivement des biens d'exception (> 8M Dhs) dans les quartiers Anfa, CFC, Californie, Bouskoura-Ville Verte. •Approche qualitative, pas quantitative. Pas de démarchage public. 2. PRÉ-QUALIFICATION RIGOUREUSE •Validation préalable du dossier financier, du projet d'acquisition et des critères de recherche pour chaque prospect.",
+        "score": 0.534370918104433
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "NOUS FAIRE CONFIANCE ?** •**Expertise du Luxe Casablancais :** Connaissance fine des quartiers, des promoteurs et des dynamiques de marché (Anfa, CFC, Racine...). •**Approche Relationnelle :** Nous protégeons votre relation avec votre vendeur et votre réputation. •**Discrétion et Professionnalisme :** Entière compréhension des enjeux de confidentialité propres aux transactions haut de gamme. **PROCHAINES ÉTAPES** Nous proposons un premier échange de 20 minutes pour : •Identifier un premier bien candidat pour un test. •Définir les modalités pratiques d'un partenariat exclusif sur un segment défini. **Contact :** [Hassan] | [0675591318] | [helouasni@gmail.com] | [hassan-elouasni-b0645b310] -- 3 of 3 --",
+        "score": 0.5244500883688299
+      },
+      {
+        "filename": "Politique_RH.txt",
+        "text": "# POLITIQUE DE LA SOCIÉTÉ ASSOCIE.AI ## Version 2026.1 - Document de Référence Interne ### 1. Politique Globale de Télétravail Il est accordé à l'ensemble des collaborateurs d'Associer.ai d'effectuer jusqu'à 3 jours de télétravail par semaine, après approbation de leur responsable hiérarchique direct. Les lundis et vendredis sont privilégiés pour les réunions d'équipe en présentiel au siège social situé Avenue des Champs-Élysées à Paris. ### 2. Remboursement des frais d'équipement Chaque nouvel arrivant bénéficie d'une enveloppe de remboursement d'équipement de bureau à hauteur de 500 € maximum (HT). Cette enveloppe comprend l'achat d'un écran ergonomique, d'un fauteuil de bureau et d'accessoires de frappe validés par la médecine du travail. ### 3. Jours de Congés et RTT",
+        "score": 0.5079936428507588
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "2. PRÉ-QUALIFICATION RIGOUREUSE •Validation préalable du dossier financier, du projet d'acquisition et des critères de recherche pour chaque prospect. •Présentation d'une **fiche acquéreur complète** comprenant : budget validé, origine des fonds, mandat de recherche signé, délai d'achat. 3. MODÈLE GAGNANT-GAGNANT CLAIR •**Nous ne sommes pas une agence concurrente.** Nous sommes un canal d'acquisition premium pour votre portefeuille *off-market* et vos biens les plus prestigieux. •**Rémunération uniquement sur succès**, sous forme de partage de la **commission vendeur** (à définir contractuellement). Nous ne touchons jamais à la poche de l'acquéreur. •Vous conservez l'intégralité de la relation client et la gestion de la transaction. **PROCESSUS DE PARTENARIAT** 1. **ALIGNEMENT",
+        "score": 0.4929263774433997
+      }
+    ],
+    "projectId": "hassan_agency_default"
+  },
+  {
+    "id": "chat-1779751144690-user",
+    "sender": "user",
+    "text": "Qui est Hassan ?",
+    "timestamp": "2026-05-25T23:19:04.690Z",
+    "projectId": "hassan_agency_default"
+  },
+  {
+    "id": "chat-1779751144690-ai",
+    "sender": "ai",
+    "text": "Selon le document **Concierge Immobilie.pdf**, **Hassan** est le point de contact privilégié pour le service de conciergerie et de partenariat immobilier d'exception à Casablanca. \n\nVoici ses coordonnées pour le contacter directement ou planifier un premier échange :\n\n* **Téléphone :** 0675591318\n* **E-mail :** helouasni@gmail.com\n* **LinkedIn :** hassan-elouasni-b0645b310",
+    "timestamp": "2026-05-25T23:19:04.690Z",
+    "sources": [
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "NOUS FAIRE CONFIANCE ?** •**Expertise du Luxe Casablancais :** Connaissance fine des quartiers, des promoteurs et des dynamiques de marché (Anfa, CFC, Racine...). •**Approche Relationnelle :** Nous protégeons votre relation avec votre vendeur et votre réputation. •**Discrétion et Professionnalisme :** Entière compréhension des enjeux de confidentialité propres aux transactions haut de gamme. **PROCHAINES ÉTAPES** Nous proposons un premier échange de 20 minutes pour : •Identifier un premier bien candidat pour un test. •Définir les modalités pratiques d'un partenariat exclusif sur un segment défini. **Contact :** [Hassan] | [0675591318] | [helouasni@gmail.com] | [hassan-elouasni-b0645b310] -- 3 of 3 --",
+        "score": 0.5624399235938371
+      },
+      {
+        "filename": "Prix_Villas.csv",
+        "text": "ID;Nom de la Villa;Localisation;Chambres;Surface (m2);Prix de Vente;Disponibilité V001;Villa Serena;Saint-Tropez;5;340;4200000;Disponible V002;Villa Horizon;Cannes;4;290;3100000;Optionnée V003;Villa Belvédère;Nice;6;410;5400000;Disponible V004;Villas des Pins;Ramatuelle;4;250;2850000;Disponible V005;La Bastide Bleue;Gassin;5;310;3600000;Sous Compromis",
+        "score": 0.4900744424334382
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "=Concierge Immobilie= Accès Privé au Marché d'Exception & Partenariat Agences d'Élite -- 1 of 3 -- NOTRE MISSION Fournir aux agences immobilières de prestige de Casablanca un accès direct et qualifié à des acquéreurs sérieux, internationaux et locaux, pour les transactions haut de gamme et *off-market*. **NOTRE VALEUR EN 3 POINTS** 1. SOURCING CIBLÉ & DISCRET •Accès à un réseau d'acquéreurs (HNWI, diaspora, investisseurs institutionnels) recherchant exclusivement des biens d'exception (> 8M Dhs) dans les quartiers Anfa, CFC, Californie, Bouskoura-Ville Verte. •Approche qualitative, pas quantitative. Pas de démarchage public. 2. PRÉ-QUALIFICATION RIGOUREUSE •Validation préalable du dossier financier, du projet d'acquisition et des critères de recherche pour chaque prospect.",
+        "score": 0.486937040361125
+      },
+      {
+        "filename": "Politique_RH.txt",
+        "text": "# POLITIQUE DE LA SOCIÉTÉ ASSOCIE.AI ## Version 2026.1 - Document de Référence Interne ### 1. Politique Globale de Télétravail Il est accordé à l'ensemble des collaborateurs d'Associer.ai d'effectuer jusqu'à 3 jours de télétravail par semaine, après approbation de leur responsable hiérarchique direct. Les lundis et vendredis sont privilégiés pour les réunions d'équipe en présentiel au siège social situé Avenue des Champs-Élysées à Paris. ### 2. Remboursement des frais d'équipement Chaque nouvel arrivant bénéficie d'une enveloppe de remboursement d'équipement de bureau à hauteur de 500 € maximum (HT). Cette enveloppe comprend l'achat d'un écran ergonomique, d'un fauteuil de bureau et d'accessoires de frappe validés par la médecine du travail. ### 3. Jours de Congés et RTT",
+        "score": 0.46555363392128946
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "2. PRÉ-QUALIFICATION RIGOUREUSE •Validation préalable du dossier financier, du projet d'acquisition et des critères de recherche pour chaque prospect. •Présentation d'une **fiche acquéreur complète** comprenant : budget validé, origine des fonds, mandat de recherche signé, délai d'achat. 3. MODÈLE GAGNANT-GAGNANT CLAIR •**Nous ne sommes pas une agence concurrente.** Nous sommes un canal d'acquisition premium pour votre portefeuille *off-market* et vos biens les plus prestigieux. •**Rémunération uniquement sur succès**, sous forme de partage de la **commission vendeur** (à définir contractuellement). Nous ne touchons jamais à la poche de l'acquéreur. •Vous conservez l'intégralité de la relation client et la gestion de la transaction. **PROCESSUS DE PARTENARIAT** 1. **ALIGNEMENT",
+        "score": 0.4561141799541636
+      }
+    ],
+    "projectId": "hassan_agency_default"
+  },
+  {
+    "id": "chat-1779756021388-user",
+    "projectId": "villa_serena",
+    "sender": "user",
+    "text": "Qui est Hassan ?",
+    "timestamp": "2026-05-26T00:40:21.388Z"
+  },
+  {
+    "id": "chat-1779756021388-ai",
+    "projectId": "villa_serena",
+    "sender": "ai",
+    "text": "Bonjour,\n\nLes documents d'entreprise mis à ma disposition ne contiennent aucune information concernant une personne nommée **Hassan**. \n\nPar conséquent, je ne suis pas en mesure de répondre à votre question à l'aide des données internes actuelles. Si vous estimez qu'il s'agit d'une erreur ou si vous avez besoin d'une assistance supplémentaire, nous vous invitons respectueusement à contacter notre support client.\n\nCordialement,  \n**ASSOCIE.AI**  \n*Votre agent de support d'entreprise ultra-premium*",
+    "timestamp": "2026-05-26T00:40:21.388Z",
+    "sources": []
+  },
+  {
+    "id": "chat-1779756127069-user",
+    "projectId": "hassan_agency_default",
+    "sender": "user",
+    "text": "Qui est Hassan ?",
+    "timestamp": "2026-05-26T00:42:07.069Z"
+  },
+  {
+    "id": "chat-1779756127069-ai",
+    "projectId": "hassan_agency_default",
+    "sender": "ai",
+    "text": "D'après le document **Concierge Immobilie.pdf**, **Hassan** est le contact clé et le représentant de notre service de partenariat immobilier de prestige et de conciergerie à Casablanca. \n\nIl accompagne les agences immobilières d'élite en leur offrant un accès à un réseau d'acquéreurs qualifiés pour des transactions haut de gamme et *off-market*.\n\nVous pouvez le joindre directement pour planifier un premier échange de 20 minutes via les coordonnées suivantes :\n\n* 📞 **Téléphone :** 0675591318\n* ✉️ **E-mail :** helouasni@gmail.com\n* 💼 **LinkedIn :** hassan-elouasni-b0645b310",
+    "timestamp": "2026-05-26T00:42:07.069Z",
+    "sources": [
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "NOUS FAIRE CONFIANCE ?** •**Expertise du Luxe Casablancais :** Connaissance fine des quartiers, des promoteurs et des dynamiques de marché (Anfa, CFC, Racine...). •**Approche Relationnelle :** Nous protégeons votre relation avec votre vendeur et votre réputation. •**Discrétion et Professionnalisme :** Entière compréhension des enjeux de confidentialité propres aux transactions haut de gamme. **PROCHAINES ÉTAPES** Nous proposons un premier échange de 20 minutes pour : •Identifier un premier bien candidat pour un test. •Définir les modalités pratiques d'un partenariat exclusif sur un segment défini. **Contact :** [Hassan] | [0675591318] | [helouasni@gmail.com] | [hassan-elouasni-b0645b310] -- 3 of 3 --",
+        "score": 0.5624399235938371
+      },
+      {
+        "filename": "Prix_Villas.csv",
+        "text": "ID;Nom de la Villa;Localisation;Chambres;Surface (m2);Prix de Vente;Disponibilité V001;Villa Serena;Saint-Tropez;5;340;4200000;Disponible V002;Villa Horizon;Cannes;4;290;3100000;Optionnée V003;Villa Belvédère;Nice;6;410;5400000;Disponible V004;Villas des Pins;Ramatuelle;4;250;2850000;Disponible V005;La Bastide Bleue;Gassin;5;310;3600000;Sous Compromis",
+        "score": 0.4900744424334382
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "=Concierge Immobilie= Accès Privé au Marché d'Exception & Partenariat Agences d'Élite -- 1 of 3 -- NOTRE MISSION Fournir aux agences immobilières de prestige de Casablanca un accès direct et qualifié à des acquéreurs sérieux, internationaux et locaux, pour les transactions haut de gamme et *off-market*. **NOTRE VALEUR EN 3 POINTS** 1. SOURCING CIBLÉ & DISCRET •Accès à un réseau d'acquéreurs (HNWI, diaspora, investisseurs institutionnels) recherchant exclusivement des biens d'exception (> 8M Dhs) dans les quartiers Anfa, CFC, Californie, Bouskoura-Ville Verte. •Approche qualitative, pas quantitative. Pas de démarchage public. 2. PRÉ-QUALIFICATION RIGOUREUSE •Validation préalable du dossier financier, du projet d'acquisition et des critères de recherche pour chaque prospect.",
+        "score": 0.486937040361125
+      },
+      {
+        "filename": "Politique_RH.txt",
+        "text": "# POLITIQUE DE LA SOCIÉTÉ ASSOCIE.AI ## Version 2026.1 - Document de Référence Interne ### 1. Politique Globale de Télétravail Il est accordé à l'ensemble des collaborateurs d'Associer.ai d'effectuer jusqu'à 3 jours de télétravail par semaine, après approbation de leur responsable hiérarchique direct. Les lundis et vendredis sont privilégiés pour les réunions d'équipe en présentiel au siège social situé Avenue des Champs-Élysées à Paris. ### 2. Remboursement des frais d'équipement Chaque nouvel arrivant bénéficie d'une enveloppe de remboursement d'équipement de bureau à hauteur de 500 € maximum (HT). Cette enveloppe comprend l'achat d'un écran ergonomique, d'un fauteuil de bureau et d'accessoires de frappe validés par la médecine du travail. ### 3. Jours de Congés et RTT",
+        "score": 0.46555363392128946
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "2. PRÉ-QUALIFICATION RIGOUREUSE •Validation préalable du dossier financier, du projet d'acquisition et des critères de recherche pour chaque prospect. •Présentation d'une **fiche acquéreur complète** comprenant : budget validé, origine des fonds, mandat de recherche signé, délai d'achat. 3. MODÈLE GAGNANT-GAGNANT CLAIR •**Nous ne sommes pas une agence concurrente.** Nous sommes un canal d'acquisition premium pour votre portefeuille *off-market* et vos biens les plus prestigieux. •**Rémunération uniquement sur succès**, sous forme de partage de la **commission vendeur** (à définir contractuellement). Nous ne touchons jamais à la poche de l'acquéreur. •Vous conservez l'intégralité de la relation client et la gestion de la transaction. **PROCESSUS DE PARTENARIAT** 1. **ALIGNEMENT",
+        "score": 0.4561141799541636
+      }
+    ]
+  },
+  {
+    "id": "chat-1779849169565-user",
+    "projectId": "hassan_agency_default",
+    "sender": "user",
+    "text": "salut Assistant",
+    "timestamp": "2026-05-27T02:32:49.565Z"
+  },
+  {
+    "id": "chat-1779849169566-ai",
+    "projectId": "hassan_agency_default",
+    "sender": "ai",
+    "text": "Bonjour et bienvenue chez **ASSOCIE.AI**, votre assistant de support d'entreprise ultra-premium. \n\nComment puis-je vous accompagner aujourd'hui ? Je suis à votre entière disposition pour vous renseigner sur nos différents domaines d'expertise documentés :\n\n* 🏢 **Politique RH d'Associe.ai** : Télétravail, enveloppe d'équipement de bureau, congés et RTT.\n* 🇲🇦 **Conciergerie Immobilière à Casablanca** : Partenariats d'élite et accès au marché d'exception *off-market* avec Hassan.\n* 🏡 **Portefeuille de Villas d'Exception** : Prix, surfaces et disponibilités de nos villas de prestige (Saint-Tropez, Cannes, Nice, Gassin, Ramatuelle).\n\nN'hésitez pas à me poser votre question !",
+    "timestamp": "2026-05-27T02:32:49.566Z",
+    "sources": [
+      {
+        "filename": "Politique_RH.txt",
+        "text": "# POLITIQUE DE LA SOCIÉTÉ ASSOCIE.AI ## Version 2026.1 - Document de Référence Interne ### 1. Politique Globale de Télétravail Il est accordé à l'ensemble des collaborateurs d'Associer.ai d'effectuer jusqu'à 3 jours de télétravail par semaine, après approbation de leur responsable hiérarchique direct. Les lundis et vendredis sont privilégiés pour les réunions d'équipe en présentiel au siège social situé Avenue des Champs-Élysées à Paris. ### 2. Remboursement des frais d'équipement Chaque nouvel arrivant bénéficie d'une enveloppe de remboursement d'équipement de bureau à hauteur de 500 € maximum (HT). Cette enveloppe comprend l'achat d'un écran ergonomique, d'un fauteuil de bureau et d'accessoires de frappe validés par la médecine du travail. ### 3. Jours de Congés et RTT",
+        "score": 0.47487338955963576
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "NOUS FAIRE CONFIANCE ?** •**Expertise du Luxe Casablancais :** Connaissance fine des quartiers, des promoteurs et des dynamiques de marché (Anfa, CFC, Racine...). •**Approche Relationnelle :** Nous protégeons votre relation avec votre vendeur et votre réputation. •**Discrétion et Professionnalisme :** Entière compréhension des enjeux de confidentialité propres aux transactions haut de gamme. **PROCHAINES ÉTAPES** Nous proposons un premier échange de 20 minutes pour : •Identifier un premier bien candidat pour un test. •Définir les modalités pratiques d'un partenariat exclusif sur un segment défini. **Contact :** [Hassan] | [0675591318] | [helouasni@gmail.com] | [hassan-elouasni-b0645b310] -- 3 of 3 --",
+        "score": 0.4441383772389745
+      },
+      {
+        "filename": "Politique_RH.txt",
+        "text": "d l'achat d'un écran ergonomique, d'un fauteuil de bureau et d'accessoires de frappe validés par la médecine du travail. ### 3. Jours de Congés et RTT La société attribue : - 25 jours de congés payés conventionnels par an. - 10 jours de RTT (Réduction du Temps de Travail) forfaitaires par année civile. - Les demandes de congés de plus de 5 jours doivent être soumises au moins 3 semaines à l'avance via l'outil interne de paie.",
+        "score": 0.43483492821236186
+      },
+      {
+        "filename": "Prix_Villas.csv",
+        "text": "ID;Nom de la Villa;Localisation;Chambres;Surface (m2);Prix de Vente;Disponibilité V001;Villa Serena;Saint-Tropez;5;340;4200000;Disponible V002;Villa Horizon;Cannes;4;290;3100000;Optionnée V003;Villa Belvédère;Nice;6;410;5400000;Disponible V004;Villas des Pins;Ramatuelle;4;250;2850000;Disponible V005;La Bastide Bleue;Gassin;5;310;3600000;Sous Compromis",
+        "score": 0.4287596277717791
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "=Concierge Immobilie= Accès Privé au Marché d'Exception & Partenariat Agences d'Élite -- 1 of 3 -- NOTRE MISSION Fournir aux agences immobilières de prestige de Casablanca un accès direct et qualifié à des acquéreurs sérieux, internationaux et locaux, pour les transactions haut de gamme et *off-market*. **NOTRE VALEUR EN 3 POINTS** 1. SOURCING CIBLÉ & DISCRET •Accès à un réseau d'acquéreurs (HNWI, diaspora, investisseurs institutionnels) recherchant exclusivement des biens d'exception (> 8M Dhs) dans les quartiers Anfa, CFC, Californie, Bouskoura-Ville Verte. •Approche qualitative, pas quantitative. Pas de démarchage public. 2. PRÉ-QUALIFICATION RIGOUREUSE •Validation préalable du dossier financier, du projet d'acquisition et des critères de recherche pour chaque prospect.",
+        "score": 0.4193649405545764
+      }
+    ]
+  },
+  {
+    "id": "chat-1779849464074-user",
+    "projectId": "hassan_agency_default",
+    "sender": "user",
+    "text": "combien des Jours de Congés et RTT la société attribuer",
+    "timestamp": "2026-05-27T02:37:44.074Z"
+  },
+  {
+    "id": "chat-1779849464074-ai",
+    "projectId": "hassan_agency_default",
+    "sender": "ai",
+    "text": "Selon le document **Politique_RH.txt**, la société Associe.ai attribue à ses collaborateurs :\n\n* **25 jours** de congés payés conventionnels par an.\n* **10 jours** de RTT (Réduction du Temps de Travail) forfaitaires par année civile.\n\n**Information complémentaire :** \nLes demandes de congés de plus de 5 jours doivent être soumises au moins **3 semaines à l'avance** via l'outil interne de paie.",
+    "timestamp": "2026-05-27T02:37:44.074Z",
+    "sources": [
+      {
+        "filename": "Politique_RH.txt",
+        "text": "d l'achat d'un écran ergonomique, d'un fauteuil de bureau et d'accessoires de frappe validés par la médecine du travail. ### 3. Jours de Congés et RTT La société attribue : - 25 jours de congés payés conventionnels par an. - 10 jours de RTT (Réduction du Temps de Travail) forfaitaires par année civile. - Les demandes de congés de plus de 5 jours doivent être soumises au moins 3 semaines à l'avance via l'outil interne de paie.",
+        "score": 0.7990752335016329
+      },
+      {
+        "filename": "Politique_RH.txt",
+        "text": "# POLITIQUE DE LA SOCIÉTÉ ASSOCIE.AI ## Version 2026.1 - Document de Référence Interne ### 1. Politique Globale de Télétravail Il est accordé à l'ensemble des collaborateurs d'Associer.ai d'effectuer jusqu'à 3 jours de télétravail par semaine, après approbation de leur responsable hiérarchique direct. Les lundis et vendredis sont privilégiés pour les réunions d'équipe en présentiel au siège social situé Avenue des Champs-Élysées à Paris. ### 2. Remboursement des frais d'équipement Chaque nouvel arrivant bénéficie d'une enveloppe de remboursement d'équipement de bureau à hauteur de 500 € maximum (HT). Cette enveloppe comprend l'achat d'un écran ergonomique, d'un fauteuil de bureau et d'accessoires de frappe validés par la médecine du travail. ### 3. Jours de Congés et RTT",
+        "score": 0.760393215469316
+      },
+      {
+        "filename": "Prix_Villas.csv",
+        "text": "ID;Nom de la Villa;Localisation;Chambres;Surface (m2);Prix de Vente;Disponibilité V001;Villa Serena;Saint-Tropez;5;340;4200000;Disponible V002;Villa Horizon;Cannes;4;290;3100000;Optionnée V003;Villa Belvédère;Nice;6;410;5400000;Disponible V004;Villas des Pins;Ramatuelle;4;250;2850000;Disponible V005;La Bastide Bleue;Gassin;5;310;3600000;Sous Compromis",
+        "score": 0.5509209328682277
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "2. PRÉ-QUALIFICATION RIGOUREUSE •Validation préalable du dossier financier, du projet d'acquisition et des critères de recherche pour chaque prospect. •Présentation d'une **fiche acquéreur complète** comprenant : budget validé, origine des fonds, mandat de recherche signé, délai d'achat. 3. MODÈLE GAGNANT-GAGNANT CLAIR •**Nous ne sommes pas une agence concurrente.** Nous sommes un canal d'acquisition premium pour votre portefeuille *off-market* et vos biens les plus prestigieux. •**Rémunération uniquement sur succès**, sous forme de partage de la **commission vendeur** (à définir contractuellement). Nous ne touchons jamais à la poche de l'acquéreur. •Vous conservez l'intégralité de la relation client et la gestion de la transaction. **PROCESSUS DE PARTENARIAT** 1. **ALIGNEMENT",
+        "score": 0.5501725097177921
+      },
+      {
+        "filename": "Concierge Immobilie.pdf",
+        "text": "=Concierge Immobilie= Accès Privé au Marché d'Exception & Partenariat Agences d'Élite -- 1 of 3 -- NOTRE MISSION Fournir aux agences immobilières de prestige de Casablanca un accès direct et qualifié à des acquéreurs sérieux, internationaux et locaux, pour les transactions haut de gamme et *off-market*. **NOTRE VALEUR EN 3 POINTS** 1. SOURCING CIBLÉ & DISCRET •Accès à un réseau d'acquéreurs (HNWI, diaspora, investisseurs institutionnels) recherchant exclusivement des biens d'exception (> 8M Dhs) dans les quartiers Anfa, CFC, Californie, Bouskoura-Ville Verte. •Approche qualitative, pas quantitative. Pas de démarchage public. 2. PRÉ-QUALIFICATION RIGOUREUSE •Validation préalable du dossier financier, du projet d'acquisition et des critères de recherche pour chaque prospect.",
+        "score": 0.536581277727137
+      }
+    ]
+  },
+  {
+    "id": "chat-1779935297006-user",
+    "projectId": "hassan_agency_default",
+    "sender": "user",
+    "text": "qui hassan?",
+    "timestamp": "2026-05-28T02:28:17.006Z"
+  },
+  {
+    "id": "chat-1779935297006-ai",
+    "projectId": "hassan_agency_default",
+    "sender": "ai",
+    "text": "Gemini Query Failed: fetch failed",
+    "timestamp": "2026-05-28T02:28:17.006Z",
+    "sources": []
+  }
+]

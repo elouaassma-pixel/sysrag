@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Démo Intégration Widget — ASSOCIE.AI</title>
+  <style>
+    body {
+      background: #050507;
+      color: #f3f4f6;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      margin: 0;
+      padding: 0;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      overflow: hidden;
+      position: relative;
+    }
+    
+    /* Background glows */
+    .glow-1 {
+      position: absolute;
+      top: -10%;
+      left: -10%;
+      width: 50%;
+      height: 50%;
+      background: radial-gradient(circle, rgba(99, 102, 241, 0.05) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .glow-2 {
+      position: absolute;
+      bottom: -10%;
+      right: -10%;
+      width: 50%;
+      height: 50%;
+      background: radial-gradient(circle, rgba(168, 85, 247, 0.05) 0%, transparent 70%);
+      pointer-events: none;
+    }
+
+    .container {
+      max-width: 600px;
+      padding: 40px;
+      background: rgba(12, 12, 14, 0.6);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      backdrop-filter: blur(20px);
+      border-radius: 24px;
+      box-shadow: 0 20px 50px rgba(0,0,0,0.3);
+      z-index: 10;
+    }
+
+    .logo {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 64px;
+      height: 64px;
+      border-radius: 16px;
+      background: #fff;
+      color: #000;
+      font-weight: 800;
+      font-size: 24px;
+      letter-spacing: 0.1em;
+      margin-bottom: 24px;
+      box-shadow: 0 8px 32px rgba(255, 255, 255, 0.1);
+    }
+
+    h1 {
+      font-size: 28px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      margin: 0 0 12px;
+      color: #fff;
+    }
+
+    p {
+      color: rgba(255, 255, 255, 0.5);
+      font-size: 15px;
+      line-height: 1.6;
+      margin: 0 0 24px;
+    }
+
+    .status-box {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(16, 185, 129, 0.1);
+      border: 1px solid rgba(16, 185, 129, 0.2);
+      color: #34d399;
+      padding: 8px 16px;
+      border-radius: 100px;
+      font-size: 13px;
+      font-weight: 600;
+      font-family: monospace;
+      margin-bottom: 30px;
+    }
+
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      background: #34d399;
+      border-radius: 50%;
+      animation: pulse 1.5s infinite;
+    }
+
+    @keyframes pulse {
+      0% { transform: scale(0.9); opacity: 0.6; }
+      50% { transform: scale(1.15); opacity: 1; }
+      100% { transform: scale(0.9); opacity: 0.6; }
+    }
+
+    .info-list {
+      text-align: left;
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      border-radius: 16px;
+      padding: 20px;
+      margin-bottom: 10px;
+      font-family: monospace;
+      font-size: 12px;
+    }
+
+    .info-item {
+      display: flex;
+      justify-content: space-between;
+      padding: 6px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.03);
+    }
+    .info-item:last-child {
+      border: none;
+    }
+    .info-label { color: rgba(255,255,255,0.4); }
+    .info-value { color: #818cf8; word-break: break-all; }
+  </style>
+</head>
+<body>
+  <div class="glow-1"></div>
+  <div class="glow-2"></div>
+
+  <div class="container">
+    <div class="logo">A.I</div>
+    <h1>Simulateur d'Intégration</h1>
+    <p>Cette page simule le site internet d'un de vos clients. Le widget de chat public s'affiche en bas à droite de l'écran.</p>
+    
+    <div class="status-box">
+      <span class="status-dot"></span>
+      <span>WIDGET CHARGÉ AVEC SUCCÈS</span>
+    </div>
+
+    <div class="info-list">
+      <div class="info-item">
+        <span class="info-label">Token de Session :</span>
+        <span class="info-value" id="info-token">-</span>
+      </div>
+      <div class="info-item">
+        <span class="info-label">Nom de l'Agent :</span>
+        <span class="info-value" id="info-name">-</span>
+      </div>
+      <div class="info-item">
+        <span class="info-label">Couleur de l'Agent :</span>
+        <span class="info-value" id="info-color">-</span>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Get query params
+    const params = new URLSearchParams(window.location.search);
+    const token = params.get('token') || '';
+    const name = params.get('name') || 'Assistant IA';
+    const color = params.get('color') || '#6366f1';
+
+    // Populate info
+    document.getElementById('info-token').innerText = token || 'Non défini';
+    document.getElementById('info-name').innerText = name;
+    document.getElementById('info-color').innerText = color;
+
+    if (token) {
+      // Dynamically inject the widget script tag
+      const script = document.createElement('script');
+      script.src = '/widget.js';
+      script.setAttribute('data-token', token);
+      script.setAttribute('data-name', name);
+      script.setAttribute('data-color', color);
+      document.body.appendChild(script);
+    } else {
+      document.querySelector('.status-box').style.background = 'rgba(239, 68, 68, 0.1)';
+      document.querySelector('.status-box').style.borderColor = 'rgba(239, 68, 68, 0.2)';
+      document.querySelector('.status-box').style.color = '#f87171';
+      document.querySelector('.status-box .status-dot').style.background = '#f87171';
+      document.querySelector('.status-box span:last-child').innerText = 'ERREUR : AUCUN TOKEN FOURNI';
+    }
+  </script>
+</body>
+</html>

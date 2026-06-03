@@ -1,0 +1,31 @@
+# Example render.yaml for Render.com — edit values before use.
+# This file is a template. You can also create services via the Render dashboard.
+
+services:
+  - type: web
+    name: document-agent-web
+    env: node
+    path: .
+    buildCommand: npm run build
+    startCommand: npm start
+    plan: free
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: "3000"
+
+  - type: worker
+    name: document-agent-worker
+    env: node
+    path: .
+    buildCommand: npm run build
+    startCommand: npm start
+    plan: free
+    envVars:
+      - key: NODE_ENV
+        value: production
+
+# Note: For managed Postgres/Redis and S3 storage, use the Render dashboard
+# to provision a Postgres database and a Redis instance, then set their URLs
+# in the Render service Environment settings using the keys from `.env.example`.

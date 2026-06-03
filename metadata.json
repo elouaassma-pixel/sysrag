@@ -1,0 +1,6 @@
+{
+  "name": "Associe AI Document Agent",
+  "description": "An enterprise-grade document sync agent that watches folders, indexes text using Gemini Embeddings, and serves grounded chat solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
