@@ -40,10 +40,13 @@ jobs:
 
       - name: Deploy to Fly
         run: |
-          if [ -z "${{ secrets.FLY_APP_NAME }}" ]; then
-            echo "Error: FLY_APP_NAME secret is empty or not configured. Aborting deploy."
-            exit 1
+          # If FLY_APP_NAME is set, deploy with -a; otherwise rely on fly.toml in the repo
+          if [ -n "${{ secrets.FLY_APP_NAME }}" ]; then
+            echo "Using FLY_APP_NAME secret for deploy: ${{ secrets.FLY_APP_NAME }}"
+            flyctl deploy -a "${{ secrets.FLY_APP_NAME }}" --image ghcr.io/${{ github.repository_owner }}/sysrag:${{ github.sha }} --regions fra
+          else
+            echo "FLY_APP_NAME secret not set — falling back to fly.toml (if present)"
+            flyctl deploy --image ghcr.io/${{ github.repository_owner }}/sysrag:${{ github.sha }} --regions fra
           fi
-          flyctl deploy -a "${{ secrets.FLY_APP_NAME }}" --image ghcr.io/${{ github.repository_owner }}/sysrag:${{ github.sha }} --regions fra
         env:
           FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
