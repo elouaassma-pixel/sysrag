@@ -3,7 +3,7 @@ WORKDIR /app
 
 # Install dependencies (including devDeps needed for build)
 COPY package.json package-lock.json ./
-RUN npm ci
+RUN npm ci --legacy-peer-deps
 
 # Copy source and build
 COPY . .
@@ -15,7 +15,7 @@ ENV NODE_ENV=production
 
 # Install only production deps
 COPY package.json package-lock.json ./
-RUN npm ci --omit=dev
+RUN npm ci --omit=dev --legacy-peer-deps
 
 # Copy build artifacts
 COPY --from=builder /app/dist ./dist
