@@ -35,9 +35,15 @@ jobs:
             ghcr.io/${{ github.repository_owner }}/sysrag:${{ github.sha }}
             ghcr.io/${{ github.repository_owner }}/sysrag:${{ github.ref_name }}
 
+      - name: Setup Flyctl
+        uses: superfly/flyctl-actions/setup-flyctl@master
+
       - name: Deploy to Fly
-        uses: superfly/flyctl-actions@v1
-        with:
-          args: deploy -a ${{ secrets.FLY_APP_NAME }} --image ghcr.io/${{ github.repository_owner }}/sysrag:${{ github.sha }} --regions fra
+        run: |
+          if [ -z "${{ secrets.FLY_APP_NAME }}" ]; then
+            echo "Error: FLY_APP_NAME secret is empty or not configured. Aborting deploy."
+            exit 1
+          fi
+          flyctl deploy -a "${{ secrets.FLY_APP_NAME }}" --image ghcr.io/${{ github.repository_owner }}/sysrag:${{ github.sha }} --regions fra
         env:
           FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
