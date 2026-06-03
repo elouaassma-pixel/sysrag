@@ -1,0 +1,4 @@
+app = "sysrag"
+primary_region = "fra"
+
+# Optional: process definitions, build settings, or services can be added here.
